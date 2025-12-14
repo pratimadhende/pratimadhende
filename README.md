@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**pratimadhende/pratimadhende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Pratima Dhende
 
-Here are some ideas to get you started:
+🎓 Computer Science student with a strong interest in Data Analytics and Data Science.  
+📊 Skilled in Python, Power BI, SQL, and data visualization.  
+🚀 Passionate about building data-driven dashboards and predictive models that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Power BI (DAX, KPI Dashboards)
+- Data Analysis & Visualization
+- Machine Learning (Classification)
+- SQL, Excel
+
+### 📌 Featured Projects
+- Supply Chain Inventory Optimization Dashboard
+- Customer Churn Prediction
+- Diabetes Prediction
+
+📫 *Connect with me:*  
+- LinkedIn: https://www.linkedin.com/in/pratima-dhende-6452b937a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
