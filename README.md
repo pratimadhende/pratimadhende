@@ -9,7 +9,9 @@
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Power BI (DAX, KPI Dashboards)
 - Data Analysis & Visualization
-- Machine Learning (Classification)
+- Machine Learning Basics
+- Deep Learning Basics
+- Basics Computer version
 - SQL, Excel
 
 ### 📌 Featured Projects
