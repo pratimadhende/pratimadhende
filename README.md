@@ -50,7 +50,7 @@ I am currently focused on building *industry-relevant ML projects* and preparing
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn:https://www.linkedin.com/in/pratima-dhende-6452b937a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 💼 LinkedIn:https://www.linkedin.com/in/pratima-dhende-6452b937a/
 - 📧 Email: pragatidhende3331@gmail.com  
 
 ---
