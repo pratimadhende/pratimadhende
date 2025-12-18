@@ -30,7 +30,8 @@ I am currently focused on building *industry-relevant ML projects* and preparing
 - *Customer Churn Prediction (ML)* – Identify customers likely to churn using behavioral data  
 - *Diabetes Prediction (ML)* – Predict diabetes risk using medical attributes  
 - *Supply Chain Inventory Optimization (Power BI)* – Data-driven inventory insights  
-- *Sales Intelligence Dashboard (Power BI)* – Business performance analysis  
+- *Sales Intelligence Dashboard (Power BI)* – Business performance analysis
+- *Customer Churn Causal Analysis* – Identified true causal drivers of churn using causal graphs and treatment effect estimation (DoWhy).
 
 ---
 
